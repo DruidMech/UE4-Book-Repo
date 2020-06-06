@@ -1,4 +1,4 @@
-// Copyright Epic Games, Inc. All Rights Reserved.
+// Copyright 1998-2019 Epic Games, Inc. All Rights Reserved.
 
 #include "FirstGameCharacter.h"
 #include "HeadMountedDisplayFunctionLibrary.h"
@@ -74,6 +74,7 @@ void AFirstGameCharacter::SetupPlayerInputComponent(class UInputComponent* Playe
 
 	// VR headset functionality
 	PlayerInputComponent->BindAction("ResetVR", IE_Pressed, this, &AFirstGameCharacter::OnResetVR);
+
 }
 
 

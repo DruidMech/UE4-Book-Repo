@@ -32,13 +32,27 @@
 /wd4244
 /wd4838
 /I .
-/I "D:\UE4 Book Repo\FirstGame\Intermediate\Build\Win64\UE4Editor\Inc\FirstGame"
-/I "D:\UE4 Book Repo\FirstGame\Source"
+/I ..\Intermediate\Build\Win64\UE4Editor\Inc\Slate
 /I Runtime
+/I Runtime\Slate\Public
 /I Runtime\TraceLog\Public
 /I Runtime\Core\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\CoreUObject
 /I Runtime\CoreUObject\Public
+/I Runtime\ApplicationCore\Public
+/I Runtime\RHI\Public
+/I ..\Intermediate\Build\Win64\UE4Editor\Inc\InputCore
+/I Runtime\InputCore\Classes
+/I Runtime\InputCore\Public
+/I Runtime\Json\Public
+/I ..\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore
+/I Runtime\SlateCore\Public
+/I ..\Intermediate\Build\Win64\UE4Editor\Inc\ImageWrapper
+/I Runtime\ImageWrapper\Public
+/I ..\Intermediate\Build\Win64\UE4Editor\Inc\AIModule
+/I Runtime\NavigationSystem\Public
+/I Runtime\AIModule\Public
+/I Runtime\AIModule\Classes
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\Engine
 /I Runtime\Engine\Classes
 /I Runtime\Engine\Public
@@ -46,18 +60,6 @@
 /I Runtime\Net
 /I Runtime\Net\Core\Classes
 /I Runtime\Net\Core\Public
-/I Runtime\ApplicationCore\Public
-/I Runtime\RHI\Public
-/I Runtime\Json\Public
-/I ..\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore
-/I Runtime\SlateCore\Public
-/I ..\Intermediate\Build\Win64\UE4Editor\Inc\InputCore
-/I Runtime\InputCore\Classes
-/I Runtime\InputCore\Public
-/I ..\Intermediate\Build\Win64\UE4Editor\Inc\Slate
-/I Runtime\Slate\Public
-/I ..\Intermediate\Build\Win64\UE4Editor\Inc\ImageWrapper
-/I Runtime\ImageWrapper\Public
 /I Runtime\Messaging\Public
 /I Runtime\MessagingCommon\Public
 /I Runtime\RenderCore\Public
@@ -192,7 +194,6 @@
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\PropertyPath
 /I Runtime\PropertyPath\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\NavigationSystem
-/I Runtime\NavigationSystem\Public
 /I Developer\MeshBuilder\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\MaterialShaderQualitySettings
 /I Runtime\MaterialShaderQualitySettings\Classes
@@ -217,9 +218,6 @@
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\GameplayTasks
 /I Runtime\GameplayTasks\Classes
 /I Runtime\GameplayTasks\Public
-/I ..\Intermediate\Build\Win64\UE4Editor\Inc\AIModule
-/I Runtime\AIModule\Public
-/I Runtime\AIModule\Classes
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\Kismet
 /I Editor\Kismet\Classes
 /I Editor\Kismet\Public
@@ -232,6 +230,8 @@
 /I Runtime\Experimental\GeometryCollectionSimulationCore\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\ClothingSystemRuntimeInterface
 /I Runtime\ClothingSystemRuntimeInterface\Public
+/I "D:\UE4 Book Repo\FirstGame\Intermediate\Build\Win64\UE4Editor\Inc\FirstGame"
+/I "D:\UE4 Book Repo\FirstGame\Source"
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\AugmentedReality
 /I Runtime\AugmentedReality\Public
 /I ThirdParty\PhysX3\PxShared\include

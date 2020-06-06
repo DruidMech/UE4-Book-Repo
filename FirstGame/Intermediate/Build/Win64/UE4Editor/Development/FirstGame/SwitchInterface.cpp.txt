@@ -1,0 +1,3 @@
+D:\UE4 Book Repo\FirstGame\Intermediate\Build\Win64\UE4Editor\Development\FirstGame\Definitions.FirstGame.h
+d:\ue4 book repo\firstgame\source\firstgame\SwitchInterface.h
+D:\UE4 Book Repo\FirstGame\Intermediate\Build\Win64\UE4Editor\Inc\FirstGame\SwitchInterface.generated.h

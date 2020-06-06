@@ -1,0 +1,5 @@
+D:\UE4 Book Repo\FirstGame\Intermediate\Build\Win64\UE4Editor\Development\FirstGame\Definitions.FirstGame.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\UE4 Book Repo\FirstGame\Source\FirstGame/FloorSwitch.h
+d:\ue4 book repo\firstgame\intermediate\build\win64\ue4editor\inc\firstgame\FloorSwitch.generated.h

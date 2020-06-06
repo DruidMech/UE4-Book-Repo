@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\FirstGame.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{16D6C701-5C4F-48A4-B0F5-0F7502897067}</UniqueIdentifier>
+      <UniqueIdentifier>{AFED3925-9513-4146-87B3-15CC2A037D75}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\FirstGame.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{B3155BC5-5FBE-47DD-8E28-EC126BFF37EF}</UniqueIdentifier>
+      <UniqueIdentifier>{4AD70540-6EB8-47CA-B3E5-C9ADD9DC5591}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -30,8 +30,38 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\FirstGame">
-      <UniqueIdentifier>{6B1E9961-DAE5-4A75-A838-D1B90757984F}</UniqueIdentifier>
+      <UniqueIdentifier>{104C26AF-B14C-4BE7-B393-D5056B4C51C0}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\FirstGame\BaseCharacter.cpp">
+      <Filter>Source\FirstGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FirstGame\BaseCharacter.h">
+      <Filter>Source\FirstGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FirstGame\CountessSaveGame.cpp">
+      <Filter>Source\FirstGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FirstGame\CountessSaveGame.h">
+      <Filter>Source\FirstGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FirstGame\Enemy.cpp">
+      <Filter>Source\FirstGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FirstGame\Enemy.h">
+      <Filter>Source\FirstGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FirstGame\EnemyController.cpp">
+      <Filter>Source\FirstGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FirstGame\EnemyController.h">
+      <Filter>Source\FirstGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FirstGame\FirstActor.cpp">
+      <Filter>Source\FirstGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FirstGame\FirstActor.h">
+      <Filter>Source\FirstGame</Filter>
+    </ClInclude>
     <None Include="..\..\Source\FirstGame\FirstGame.Build.cs">
       <Filter>Source\FirstGame</Filter>
     </None>
@@ -51,6 +81,72 @@
       <Filter>Source\FirstGame</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\FirstGame\FirstGameGameMode.h">
+      <Filter>Source\FirstGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FirstGame\FirstPawn.cpp">
+      <Filter>Source\FirstGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FirstGame\FirstPawn.h">
+      <Filter>Source\FirstGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FirstGame\FloorSwitch.cpp">
+      <Filter>Source\FirstGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FirstGame\FloorSwitch.h">
+      <Filter>Source\FirstGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FirstGame\HealthPickup.cpp">
+      <Filter>Source\FirstGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FirstGame\HealthPickup.h">
+      <Filter>Source\FirstGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FirstGame\Item.cpp">
+      <Filter>Source\FirstGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FirstGame\Item.h">
+      <Filter>Source\FirstGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FirstGame\MainAnimInstance.cpp">
+      <Filter>Source\FirstGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FirstGame\MainAnimInstance.h">
+      <Filter>Source\FirstGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FirstGame\MainCharacter.cpp">
+      <Filter>Source\FirstGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FirstGame\MainCharacter.h">
+      <Filter>Source\FirstGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FirstGame\MainPlayerController.cpp">
+      <Filter>Source\FirstGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FirstGame\MainPlayerController.h">
+      <Filter>Source\FirstGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FirstGame\OverlapActor.cpp">
+      <Filter>Source\FirstGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FirstGame\OverlapActor.h">
+      <Filter>Source\FirstGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FirstGame\RotatingActor.cpp">
+      <Filter>Source\FirstGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FirstGame\RotatingActor.h">
+      <Filter>Source\FirstGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FirstGame\SwitchInterface.cpp">
+      <Filter>Source\FirstGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FirstGame\SwitchInterface.h">
+      <Filter>Source\FirstGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FirstGame\SwitchTarget.cpp">
+      <Filter>Source\FirstGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FirstGame\SwitchTarget.h">
       <Filter>Source\FirstGame</Filter>
     </ClInclude>
   </ItemGroup>
