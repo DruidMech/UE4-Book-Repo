@@ -1,0 +1,18 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-FirstGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\UE4 Book Repo\FirstGame\Intermediate\Build\Win64\FirstGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\UE4 Book Repo\FirstGame\Intermediate\Build\Win64\UE4Editor\Development\FirstGame\FirstGame.cpp.obj"
+"D:\UE4 Book Repo\FirstGame\Intermediate\Build\Win64\UE4Editor\Development\FirstGame\FirstGameCharacter.cpp.obj"
+"D:\UE4 Book Repo\FirstGame\Intermediate\Build\Win64\UE4Editor\Development\FirstGame\FirstGameGameMode.cpp.obj"
+"D:\UE4 Book Repo\FirstGame\Intermediate\Build\Win64\UE4Editor\Development\FirstGame\FirstGame.init.gen.cpp.obj"
+"D:\UE4 Book Repo\FirstGame\Intermediate\Build\Win64\UE4Editor\Development\FirstGame\FirstGameCharacter.gen.cpp.obj"
+"D:\UE4 Book Repo\FirstGame\Intermediate\Build\Win64\UE4Editor\Development\FirstGame\FirstGameGameMode.gen.cpp.obj"
+"D:\UE4 Book Repo\FirstGame\Intermediate\Build\Win64\UE4Editor\Development\FirstGame\Default.rc2.res"
+/OUT:"D:\UE4 Book Repo\FirstGame\Intermediate\Build\Win64\UE4Editor\Development\FirstGame\UE4Editor-FirstGame.lib"
+/INCLUDE:IMPLEMENT_MODULE_FirstGame

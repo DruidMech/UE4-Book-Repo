@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\UE4 Book Repo\\FirstGame\\Source\\FirstGame\\FirstGame.Build.cs",
+		"D:\\UE4 Book Repo\\FirstGame\\Source\\FirstGame.Target.cs",
+		"D:\\UE4 Book Repo\\FirstGame\\Source\\FirstGameEditor.Target.cs"
+	],
+	"EngineVersion": "4.25.1"
+}

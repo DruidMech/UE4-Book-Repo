@@ -1,0 +1,3 @@
+D:\UE4 Book Repo\FirstGame\Intermediate\Build\Win64\UE4Editor\Development\FirstGame\Definitions.FirstGame.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h

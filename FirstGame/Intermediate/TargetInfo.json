@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "FirstGame",
+			"Path": "D:\\UE4 Book Repo\\FirstGame\\Source\\FirstGame.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "FirstGameEditor",
+			"Path": "D:\\UE4 Book Repo\\FirstGame\\Source\\FirstGameEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
